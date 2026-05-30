@@ -1,0 +1,17 @@
+# after installing, also run: python -m spacy download en_core_web_lg
+spacy
+nltk
+torch
+sentence-transformers
+pygenstability
+scikit-learn
+numpy
+pandas
+openpyxl  # required by pandas for .xlsx read/write
+scipy
+networkx
+matplotlib
+plotly
+umap-learn
+tqdm
+ipywidgets  # required for notebook progress bars

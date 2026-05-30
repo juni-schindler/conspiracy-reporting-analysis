@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following paper."
+type: software
+title: "Tracing Characteristics and Dynamics of Conspiracy-Related Reporting in US Far-Right Hyperpartisan and Legacy Media"
+version: 1.0.0
+doi: "[DOI to be added]"
+date-released: 2025
+license: GPL-3.0
+repository-code: "[repository URL to be added]"
+authors:
+  - family-names: Heft
+    given-names: Annett
+    orcid: "https://orcid.org/0000-0001-6637-795X"
+    affiliation: "Institute for Research on Far-Right Extremism, Universität Tübingen; Weizenbaum Institute, Berlin"
+  - family-names: Schindler
+    given-names: Juni
+    orcid: "https://orcid.org/0000-0002-8728-9286"
+    affiliation: "Department of Mathematics, Imperial College London; Department of Mathematical Modeling and Machine Learning, University of Zurich"
+  - family-names: Buehling
+    given-names: Kilian
+    orcid: "https://orcid.org/0000-0002-5244-7547"
+    affiliation: "Institute for Research on Far-Right Extremism, Universität Tübingen; Weizenbaum Institute, Berlin"
+  - family-names: Knüpfer
+    given-names: Curd Benjamin
+    orcid: "https://orcid.org/0000-0002-9850-8325"
+    affiliation: "Digital Democracy Centre, University of Southern Denmark"

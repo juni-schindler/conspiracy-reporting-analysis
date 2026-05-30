@@ -1,0 +1,18 @@
+# system files
+.DS_Store
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# original data cannot be shared
+/data/processed
+/data/raw
+
+# large computed outputs
+/results/distance
+/results/graphs 
+
+# co-author provided topic labels
+/results/topic_labels
